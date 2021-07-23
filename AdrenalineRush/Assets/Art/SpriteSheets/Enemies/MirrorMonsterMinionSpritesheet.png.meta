@@ -1,0 +1,1166 @@
+fileFormatVersion: 2
+guid: aa8289898f645ff4a856dab59e3c46c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5322938068514930313
+    second: MirrorMonsterMinionSpritesheet_0
+  - first:
+      213: 6318096912683802054
+    second: MirrorMonsterMinionSpritesheet_1
+  - first:
+      213: 3291175572492278480
+    second: MirrorMonsterMinionSpritesheet_2
+  - first:
+      213: 2262139542666851846
+    second: MirrorMonsterMinionSpritesheet_3
+  - first:
+      213: 5416201558237758931
+    second: MirrorMonsterMinionSpritesheet_4
+  - first:
+      213: -1415984170235875571
+    second: MirrorMonsterMinionSpritesheet_5
+  - first:
+      213: -4480856909746895671
+    second: MirrorMonsterMinionSpritesheet_6
+  - first:
+      213: 134473621874797949
+    second: MirrorMonsterMinionSpritesheet_7
+  - first:
+      213: 78157887774950016
+    second: MirrorMonsterMinionSpritesheet_8
+  - first:
+      213: 7036225357931320025
+    second: MirrorMonsterMinionSpritesheet_9
+  - first:
+      213: 6098399653246373056
+    second: MirrorMonsterMinionSpritesheet_10
+  - first:
+      213: 409021046054364231
+    second: MirrorMonsterMinionSpritesheet_11
+  - first:
+      213: 347082679266881844
+    second: MirrorMonsterMinionSpritesheet_12
+  - first:
+      213: 1353155483658445680
+    second: MirrorMonsterMinionSpritesheet_13
+  - first:
+      213: 9174124158441717144
+    second: MirrorMonsterMinionSpritesheet_14
+  - first:
+      213: 8683718000240595536
+    second: MirrorMonsterMinionSpritesheet_15
+  - first:
+      213: 8895379499269721925
+    second: MirrorMonsterMinionSpritesheet_16
+  - first:
+      213: 8057213343771996809
+    second: MirrorMonsterMinionSpritesheet_17
+  - first:
+      213: -3067568476873796271
+    second: MirrorMonsterMinionSpritesheet_18
+  - first:
+      213: -8645897436926303623
+    second: MirrorMonsterMinionSpritesheet_19
+  - first:
+      213: -5618240992224376194
+    second: MirrorMonsterMinionSpritesheet_20
+  - first:
+      213: 211521352510696138
+    second: MirrorMonsterMinionSpritesheet_21
+  - first:
+      213: 7965458562181420185
+    second: MirrorMonsterMinionSpritesheet_22
+  - first:
+      213: 891226102733744140
+    second: MirrorMonsterMinionSpritesheet_23
+  - first:
+      213: -9062608006615772774
+    second: MirrorMonsterMinionSpritesheet_24
+  - first:
+      213: 7173453329809251669
+    second: MirrorMonsterMinionSpritesheet_25
+  - first:
+      213: -2651371887287420105
+    second: MirrorMonsterMinionSpritesheet_26
+  - first:
+      213: 5107233469591661627
+    second: MirrorMonsterMinionSpritesheet_27
+  - first:
+      213: -7291870763378107248
+    second: MirrorMonsterMinionSpritesheet_28
+  - first:
+      213: 4673194532305686105
+    second: MirrorMonsterMinionSpritesheet_29
+  - first:
+      213: -6392671658181162814
+    second: MirrorMonsterMinionSpritesheet_30
+  - first:
+      213: -3471788958566638483
+    second: MirrorMonsterMinionSpritesheet_31
+  - first:
+      213: 7031952309956553003
+    second: MirrorMonsterMinionSpritesheet_32
+  - first:
+      213: -7854056267786509497
+    second: MirrorMonsterMinionSpritesheet_33
+  - first:
+      213: 7764877340631408042
+    second: MirrorMonsterMinionSpritesheet_34
+  - first:
+      213: 7459619106882119948
+    second: MirrorMonsterMinionSpritesheet_35
+  - first:
+      213: 7165328152537553345
+    second: MirrorMonsterMinionSpritesheet_36
+  - first:
+      213: 4620574901030829618
+    second: MirrorMonsterMinionSpritesheet_37
+  - first:
+      213: -6253884901221828403
+    second: MirrorMonsterMinionSpritesheet_0
+  - first:
+      213: 3642006181726234477
+    second: MirrorMonsterMinionSpritesheet_1
+  - first:
+      213: -2247293384290576390
+    second: MirrorMonsterMinionSpritesheet_2
+  - first:
+      213: -7762293205827862461
+    second: MirrorMonsterMinionSpritesheet_3
+  - first:
+      213: 3581225812060152214
+    second: MirrorMonsterMinionSpritesheet_4
+  - first:
+      213: -8099431264482994193
+    second: MirrorMonsterMinionSpritesheet_5
+  - first:
+      213: -984112246330587178
+    second: MirrorMonsterMinionSpritesheet_6
+  - first:
+      213: -5839123581429167199
+    second: MirrorMonsterMinionSpritesheet_7
+  - first:
+      213: -798656900492631537
+    second: MirrorMonsterMinionSpritesheet_8
+  - first:
+      213: -3081207653203102141
+    second: MirrorMonsterMinionSpritesheet_9
+  - first:
+      213: 4120410238961620889
+    second: MirrorMonsterMinionSpritesheet_10
+  - first:
+      213: -2433278504831614621
+    second: MirrorMonsterMinionSpritesheet_11
+  - first:
+      213: 4904057198468809961
+    second: MirrorMonsterMinionSpritesheet_12
+  - first:
+      213: -8084830781744960884
+    second: MirrorMonsterMinionSpritesheet_13
+  - first:
+      213: -1676742678981383023
+    second: MirrorMonsterMinionSpritesheet_14
+  - first:
+      213: -7166226516834250268
+    second: MirrorMonsterMinionSpritesheet_15
+  - first:
+      213: 611684931017706150
+    second: MirrorMonsterMinionSpritesheet_16
+  - first:
+      213: 2453050619786729577
+    second: MirrorMonsterMinionSpritesheet_17
+  - first:
+      213: 3030017814071002846
+    second: MirrorMonsterMinionSpritesheet_18
+  - first:
+      213: -2299983151365509900
+    second: MirrorMonsterMinionSpritesheet_19
+  - first:
+      213: 1823008287447468982
+    second: MirrorMonsterMinionSpritesheet_20
+  - first:
+      213: -341446862368683729
+    second: MirrorMonsterMinionSpritesheet_21
+  - first:
+      213: -659608996953883611
+    second: MirrorMonsterMinionSpritesheet_22
+  - first:
+      213: -7444587803615778220
+    second: MirrorMonsterMinionSpritesheet_23
+  - first:
+      213: 4220588783014344026
+    second: MirrorMonsterMinionSpritesheet_24
+  - first:
+      213: -4754250956767328654
+    second: MirrorMonsterMinionSpritesheet_25
+  - first:
+      213: -9193132478695289741
+    second: MirrorMonsterMinionSpritesheet_26
+  - first:
+      213: -8639564952265669528
+    second: MirrorMonsterMinionSpritesheet_27
+  - first:
+      213: 5756151795371964616
+    second: MirrorMonsterMinionSpritesheet_28
+  - first:
+      213: 1076237008069053954
+    second: MirrorMonsterMinionSpritesheet_29
+  - first:
+      213: 9022943424096043673
+    second: MirrorMonsterMinionSpritesheet_30
+  - first:
+      213: -7601218962655622707
+    second: MirrorMonsterMinionSpritesheet_31
+  - first:
+      213: -1671635036331261003
+    second: MirrorMonsterMinionSpritesheet_32
+  - first:
+      213: -7339084167495975670
+    second: MirrorMonsterMinionSpritesheet_33
+  - first:
+      213: 7541011171357756884
+    second: MirrorMonsterMinionSpritesheet_34
+  - first:
+      213: -2761589461575682927
+    second: MirrorMonsterMinionSpritesheet_35
+  - first:
+      213: -8814419556602721046
+    second: MirrorMonsterMinionSpritesheet_36
+  - first:
+      213: -8912031110886217364
+    second: MirrorMonsterMinionSpritesheet_37
+  - first:
+      213: -1410860253160325889
+    second: MirrorMonsterMinionSpritesheet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc87e7c11dcb539a0800000000000000
+      internalID: -6253884901221828403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a19b73510b8230800000000000000
+      internalID: 3642006181726234477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7564bd29200d0e0800000000000000
+      internalID: -2247293384290576390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c338a47bc64490800000000000000
+      internalID: -7762293205827862461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6912e44e6e113b130800000000000000
+      internalID: 3581225812060152214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75cc57d2a099f80800000000000000
+      internalID: -8099431264482994193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78a52402bb752f0800000000000000
+      internalID: -984112246330587178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abce492a0447fea0800000000000000
+      internalID: -5839123581429167199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e8bcc7c99ae4f0800000000000000
+      internalID: -798656900492631537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463d9fd6f95d35d0800000000000000
+      internalID: -3081207653203102141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997903e0843ae2930800000000000000
+      internalID: 4120410238961620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610be787124b3ed0800000000000000
+      internalID: -2433278504831614621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44ee80a06be0440800000000000000
+      internalID: 4904057198468809961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa2f04d39eccf80800000000000000
+      internalID: -8084830781744960884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce39fca630bb8e0800000000000000
+      internalID: -1676742678981383023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e11c1483f27c8c90800000000000000
+      internalID: -7166226516834250268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa05c334342d7800800000000000000
+      internalID: 611684931017706150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9689078ba8cfa0220800000000000000
+      internalID: 2453050619786729577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6cecee529cc0a20800000000000000
+      internalID: 3030017814071002846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca9797281d410e0800000000000000
+      internalID: -2299983151365509900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb46e3f060ac4910800000000000000
+      internalID: 1823008287447468982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29c7d243efe24bf0800000000000000
+      internalID: -341446862368683729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c79edac1998d6f0800000000000000
+      internalID: -659608996953883611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa642f5d28fa890800000000000000
+      internalID: -7444587803615778220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a557192f22b829a30800000000000000
+      internalID: 4220588783014344026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27682d4a1f1850eb0800000000000000
+      internalID: -4754250956767328654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc24ac7be6b6080800000000000000
+      internalID: -9193132478695289741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8644a4643791a1880800000000000000
+      internalID: -8639564952265669528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87f5c7f85f1ef40800000000000000
+      internalID: 5756151795371964616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec5105bdf8fee00800000000000000
+      internalID: 1076237008069053954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99201b51d3fe73d70800000000000000
+      internalID: 9022943424096043673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9c2fe50ab038690800000000000000
+      internalID: -7601218962655622707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c0698ac82dc8e0800000000000000
+      internalID: -1671635036331261003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d75b375d5562a90800000000000000
+      internalID: -7339084167495975670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0804d4bd07a860800000000000000
+      internalID: 7541011171357756884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b157240ddca9d0800000000000000
+      internalID: -2761589461575682927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec40733d14eca580800000000000000
+      internalID: -8814419556602721046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a5603cea125480800000000000000
+      internalID: -8912031110886217364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MirrorMonsterMinionSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc39a6231e9b6ce0800000000000000
+      internalID: -1410860253160325889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

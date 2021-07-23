@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44e388889761ae2409de1011efad3797, type: 3}
+  m_Name: NPCDialogue_Quest_Accept
+  m_EditorClassIdentifier: 
+  text: 'Oh, you''ll help? Great, thanks!
+
+    I''ll wait here. Duh.'
+  isLastPlayed: 0
+  dialogueOptions:
+  - {fileID: 11400000, guid: 7fcf600584db2b64c907a9431630257f, type: 2}
+  nextDialogue: {fileID: 0}

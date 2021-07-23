@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44e388889761ae2409de1011efad3797, type: 3}
+  m_Name: NPCDialogue_Quest
+  m_EditorClassIdentifier: 
+  text: 'There''s a golden apple just past the village.
+
+    Would you bring it to
+    me?'
+  isLastPlayed: 0
+  dialogueOptions:
+  - {fileID: 11400000, guid: b6668291dfcfc61438faa4fa76ff4ac2, type: 2}
+  - {fileID: 11400000, guid: 3f23724e2a877f04fb1633dc93f18eed, type: 2}
+  nextDialogue: {fileID: 0}

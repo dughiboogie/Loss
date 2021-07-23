@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44e388889761ae2409de1011efad3797, type: 3}
+  m_Name: NPCDialogue_Rumor2
+  m_EditorClassIdentifier: 
+  text: I don't even know why I'm still here. I have a bachelor degree in psychology,
+    you know.
+  isLastPlayed: 0
+  dialogueOptions:
+  - {fileID: 11400000, guid: a7b2779d30142f741aae7de299f0cb0b, type: 2}
+  nextDialogue: {fileID: 0}
